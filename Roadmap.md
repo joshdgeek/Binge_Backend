@@ -1,0 +1,4 @@
+## BINGE ROADMAP
+
+- [x]  BUILD BASIC UI
+- [ ]  CONNECT WALLET
